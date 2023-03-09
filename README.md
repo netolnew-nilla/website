@@ -1,2 +1,2 @@
 # website
-NILLA website repo
+NILLA website repo. Currently contains files related to mapbox "finder" implementation ONLY. 
